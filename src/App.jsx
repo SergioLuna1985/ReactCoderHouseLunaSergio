@@ -12,6 +12,7 @@ function App() {
       <ItemListContainer saludo={"Hola!!!"} />
       <ItemListContainer saludo={"Probando REACT"} />
       <ItemListContainer saludo={"Probando REACT"} />
+      <ItemListContainer saludo={"Probando REACT por tercera vez"} />
       
       <Counter />
 
